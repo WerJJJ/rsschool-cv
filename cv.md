@@ -30,5 +30,5 @@ I am purposeful, responsible, hardworking, able to work in a team. I want to suc
 7. __Education:__  
   *I am a 3th-year student of the Faculty of Information Technology and Management BSUIR, and my speciality is automated information processing systems.*
 8. __English:__  
-  *My English level is between A2 and B1. I began to study English from the 3th grade of the school.*
+  *My English level is between A2 and B1. I began to study English from the third grade of the school.*
 
