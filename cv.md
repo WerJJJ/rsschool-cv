@@ -11,7 +11,18 @@ I am purposeful, responsible, hardworking, able to work in a team. I want to suc
   *Languages: Basic JS, Basic C++, SQL*  
 5. __Code examples:__  
     ```
-    
+    function isPrime(num) {
+    let i;
+    if ( num <= 1){
+        return false;
+    }
+    const border = Math.sqrt(num);
+    for (i = 2; i <= border; i++)
+    {
+        if (num % i == 0){return false;}
+    }
+    return true;
+    }
     ```
 6. __Experience:__  
 *Rolling Scopes School practice*
