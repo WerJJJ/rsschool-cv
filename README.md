@@ -1,1 +1,1 @@
-# [My CV](https://WerJJJ.github.io/rsschool-cv/cv) # [CV html](https://your-github-account.github.io/rsschool-cv/)
+# [My CV](https://WerJJJ.github.io/rsschool-cv/cv) [CV html](https://WerJJJ.github.io/rsschool-cv/)
