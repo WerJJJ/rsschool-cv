@@ -1,0 +1,34 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.mainTittle{
+font-size: 24px;
+background-color:#cf1f3c;
+color: #ffffff;
+padding-bottom: 20px;
+padding-top: 20px;
+text-align:center;  
+}
+.mainInformation{
+    padding-top: 36px;
+    text-align: center;
+}
+.sectionStyle{
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 48px;
+    padding-top: 20px;
+}
+.sectionInformation{
+    padding: 24px 0 24px;
+    font-size: 18px;
+    font-weight:500;
+}
+.myPhoto{
+    padding: 36px 0 24px;
+}
